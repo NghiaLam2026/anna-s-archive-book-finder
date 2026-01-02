@@ -1,0 +1,62 @@
+2026-01-02 03:26:40,683 - INFO - User requested book: Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 03:26:42,137 - INFO - User wants the book to be in pdf format.
+2026-01-02 03:26:42,137 - INFO - Link to the book https://annas-archive.org/search?index=&page=1&sort=&ext=pdf&display=&q=Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 03:26:43,613 - INFO - User downloaded from server number slow server 1
+2026-01-02 03:26:45,646 - INFO - Appending /md5/115bd3f45922c81a3965992b8aad0966 to book link!
+2026-01-02 03:26:45,646 - INFO - Appending /md5/c5de86c5b4441595d45ecc7110b6506e to book link!
+2026-01-02 03:26:45,646 - INFO - Appending /md5/886ea7f925c4738af637d6e07180c56a to book link!
+2026-01-02 03:26:45,647 - INFO - Book link list is greater than 3. Exiting loop!
+2026-01-02 03:26:45,647 - INFO - User requested download from this server https://annas-archive.org/slow_download/115bd3f45922c81a3965992b8aad0966/0/0
+2026-01-02 03:29:27,099 - INFO - User requested book: The+Art+of+Multiprocessor+Programming
+2026-01-02 03:29:29,218 - INFO - User wants the book to be in pdf format.
+2026-01-02 03:29:29,218 - INFO - Link to the book https://annas-archive.org/search?index=&page=1&sort=&ext=pdf&display=&q=The+Art+of+Multiprocessor+Programming
+2026-01-02 03:29:30,260 - INFO - User downloaded from server number slow server 1
+2026-01-02 03:29:32,446 - INFO - Appending /md5/0f843460045b4a6abc3d9ec7f15a9006 to book link!
+2026-01-02 03:29:32,446 - INFO - Appending /md5/a1a5ec8a076f9957773fb3bfbb6021d7 to book link!
+2026-01-02 03:29:32,446 - INFO - Appending /md5/c801c87609f24fdedcc38051c054d06e to book link!
+2026-01-02 03:29:32,446 - INFO - Book link list is greater than 3. Exiting loop!
+2026-01-02 03:29:32,446 - INFO - User requested download from this server https://annas-archive.org/slow_download/0f843460045b4a6abc3d9ec7f15a9006/0/0
+2026-01-02 13:20:34,242 - INFO - User requested book: Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 13:20:38,406 - INFO - User wants the book to be in pdf format.
+2026-01-02 13:20:38,406 - INFO - Link to the book https://annas-archive.org/search?index=&page=1&sort=&ext=pdf&display=&q=Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 13:20:41,705 - INFO - User downloaded from server number slow server 1
+2026-01-02 13:20:44,322 - INFO - Appending /md5/115bd3f45922c81a3965992b8aad0966 to book link!
+2026-01-02 13:20:44,323 - INFO - Appending /md5/c5de86c5b4441595d45ecc7110b6506e to book link!
+2026-01-02 13:20:44,323 - INFO - Appending /md5/886ea7f925c4738af637d6e07180c56a to book link!
+2026-01-02 13:20:44,323 - INFO - Book link list is greater than 3. Exiting loop!
+2026-01-02 13:20:44,323 - INFO - User requested download from this server https://annas-archive.org/slow_download/115bd3f45922c81a3965992b8aad0966/0/0
+2026-01-02 14:01:01,353 - INFO - User requested book: Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 14:01:03,953 - INFO - User wants the book to be in pdf format.
+2026-01-02 14:01:03,953 - INFO - Link to the book https://annas-archive.org/search?index=&page=1&sort=&ext=pdf&display=&q=Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 14:01:06,771 - INFO - User downloaded from server number slow server 1
+2026-01-02 14:01:08,723 - INFO - Appending /md5/115bd3f45922c81a3965992b8aad0966 to book link!
+2026-01-02 14:01:08,723 - INFO - Appending /md5/c5de86c5b4441595d45ecc7110b6506e to book link!
+2026-01-02 14:01:08,723 - INFO - Appending /md5/886ea7f925c4738af637d6e07180c56a to book link!
+2026-01-02 14:01:08,723 - INFO - Book link list is greater than 3. Exiting loop!
+2026-01-02 14:01:08,723 - INFO - User requested download from this server https://annas-archive.org/slow_download/115bd3f45922c81a3965992b8aad0966/0/0
+2026-01-02 14:29:19,863 - INFO - User requested book: Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 14:29:21,282 - INFO - User wants the book to be in pdf format.
+2026-01-02 14:29:21,282 - INFO - Link to the book https://annas-archive.org/search?index=&page=1&sort=&ext=pdf&display=&q=Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 14:29:22,125 - INFO - User downloaded from server number slow server 1
+2026-01-02 14:29:24,499 - INFO - Appending /md5/115bd3f45922c81a3965992b8aad0966 to book link!
+2026-01-02 14:29:24,499 - INFO - Appending /md5/c5de86c5b4441595d45ecc7110b6506e to book link!
+2026-01-02 14:29:24,499 - INFO - Appending /md5/886ea7f925c4738af637d6e07180c56a to book link!
+2026-01-02 14:29:24,499 - INFO - Book link list is greater than 3. Exiting loop!
+2026-01-02 14:29:24,499 - INFO - User requested download from this server https://annas-archive.org/slow_download/115bd3f45922c81a3965992b8aad0966/0/0
+2026-01-02 14:29:25,581 - INFO - Appending /md5/115bd3f45922c81a3965992b8aad0966 to book link!
+2026-01-02 14:29:25,582 - INFO - Appending /md5/c5de86c5b4441595d45ecc7110b6506e to book link!
+2026-01-02 14:29:25,582 - INFO - Appending /md5/886ea7f925c4738af637d6e07180c56a to book link!
+2026-01-02 14:29:25,582 - INFO - Book link list is greater than 3. Exiting loop!
+2026-01-02 14:29:37,783 - INFO - User requested book: Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 14:29:38,704 - INFO - User wants the book to be in pdf format.
+2026-01-02 14:29:38,704 - INFO - Link to the book https://annas-archive.org/search?index=&page=1&sort=&ext=pdf&display=&q=Tanenbaum+%26+Wetherall+Computer+Networks
+2026-01-02 14:29:39,578 - INFO - User downloaded from server number slow server 1
+2026-01-02 14:29:41,543 - INFO - Appending /md5/115bd3f45922c81a3965992b8aad0966 to book link!
+2026-01-02 14:29:41,543 - INFO - Appending /md5/c5de86c5b4441595d45ecc7110b6506e to book link!
+2026-01-02 14:29:41,543 - INFO - Appending /md5/886ea7f925c4738af637d6e07180c56a to book link!
+2026-01-02 14:29:41,544 - INFO - Book link list is greater than 3. Exiting loop!
+2026-01-02 14:29:41,544 - INFO - User requested download from this server https://annas-archive.org/slow_download/115bd3f45922c81a3965992b8aad0966/0/0
+2026-01-02 14:29:43,171 - INFO - Appending /md5/115bd3f45922c81a3965992b8aad0966 to book link!
+2026-01-02 14:29:43,172 - INFO - Appending /md5/c5de86c5b4441595d45ecc7110b6506e to book link!
+2026-01-02 14:29:43,172 - INFO - Appending /md5/886ea7f925c4738af637d6e07180c56a to book link!
+2026-01-02 14:29:43,172 - INFO - Book link list is greater than 3. Exiting loop!
